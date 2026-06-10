@@ -1,0 +1,17 @@
+# Datos y archivos generados
+cosechas.txt
+incidencias.txt
+original_ECOFLOR.py
+ecoflor.py
+
+# Python
+__pycache__/
+*.pyc
+env/
+.venv/
+
+# VSCode
+.vscode/
+
+# Otros
+*.log
