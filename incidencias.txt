@@ -1,1 +1,52 @@
-21/06/2026;Vivero 1 (Sr.Francisco);Plaga o enfermedad;Plaga fuerte;Bajo;
+05/01/2026;Vivero 1 (Sr.Francisco);Plaga o enfermedad;Presencia de ácaros en tallos inferiores del sector norte;Medio;revisión semanal
+09/01/2026;Vivero 2 (Sra.Zoila);Daño clima/infraestructura;Granizo leve dañó pétalos del lote norte del vivero;Bajo;
+11/01/2026;Vivero 1 (Sr.Francisco);Actividad no realizada;Poda de formación postergada por lluvia intensa del día;Bajo;
+15/01/2026;Vivero 2 (Sra.Zoila);Otra;Retraso en despacho por falta de transporte disponible;Bajo;
+17/01/2026;Vivero 1 (Sr.Francisco);Plaga o enfermedad;Detección de botrytis en flores abiertas del sector B;Alto;se aplicó fungicida
+21/01/2026;Vivero 2 (Sra.Zoila);Actividad no realizada;Riego automatizado falló por corte eléctrico en madrugada;Alto;riego manual de emergencia
+23/01/2026;Vivero 1 (Sr.Francisco);Plaga o enfermedad;Oídio incipiente en brotes nuevos del área de propagación;Medio;
+27/01/2026;Vivero 2 (Sra.Zoila);Daño clima/infraestructura;Techo de plástico roto por viento fuerte del norte;Alto;reparación urgente
+29/01/2026;Vivero 1 (Sr.Francisco);Plaga o enfermedad;Pulgón negro detectado en ápices de plantas jóvenes;Medio;control manual
+02/02/2026;Vivero 2 (Sra.Zoila);Actividad no realizada;Fertilización pendiente por falta de insumos en almacén;Medio;
+04/02/2026;Vivero 1 (Sr.Francisco);Plaga o enfermedad;Araña roja en zona baja del invernadero principal;Medio;
+08/02/2026;Vivero 2 (Sra.Zoila);Otra;Cámara de frío sin funcionamiento durante dos horas;Medio;flores no afectadas
+10/02/2026;Vivero 1 (Sr.Francisco);Plaga o enfermedad;Botrytis reincidente en zona húmeda después de lluvia;Alto;mejoró ventilación
+14/02/2026;Vivero 2 (Sra.Zoila);Daño clima/infraestructura;Inundación leve en pasillo central por lluvia continua;Medio;drenaje manual
+16/02/2026;Vivero 1 (Sr.Francisco);Actividad no realizada;Poda de limpieza postergada tres días por falta de personal;Bajo;
+20/02/2026;Vivero 2 (Sra.Zoila);Plaga o enfermedad;Trips en pétalos de rosas rosadas del sector sur;Medio;aplicación preventiva
+22/02/2026;Vivero 1 (Sr.Francisco);Otra;Fallo de balanza de pesaje de bonches para exportación;Bajo;pesaje manual
+26/02/2026;Vivero 2 (Sra.Zoila);Actividad no realizada;Descarte de tallos cortos no ejecutado en tiempo previsto;Bajo;
+28/02/2026;Vivero 1 (Sr.Francisco);Plaga o enfermedad;Minador de hojas en sector central del invernadero;Medio;
+04/03/2026;Vivero 2 (Sra.Zoila);Daño clima/infraestructura;Corriente fuerte dobló tutores de soporte lateral izquierdo;Medio;
+06/03/2026;Vivero 1 (Sr.Francisco);Plaga o enfermedad;Cochinilla en tallos leñosos del área de propagación principal;Medio;limpieza química
+10/03/2026;Vivero 2 (Sra.Zoila);Actividad no realizada;Aireación del invernadero interrumpida por lluvias fuertes;Bajo;
+12/03/2026;Vivero 1 (Sr.Francisco);Plaga o enfermedad;Hongo gris en flores de calidad B del sector norte vivero;Alto;descarte preventivo
+16/03/2026;Vivero 2 (Sra.Zoila);Daño clima/infraestructura;Goteras en cubierta plástica del sector dos del vivero;Medio;
+18/03/2026;Vivero 1 (Sr.Francisco);Actividad no realizada;Fertilización con nitrato postergada por ausencia de personal;Bajo;
+22/03/2026;Vivero 2 (Sra.Zoila);Plaga o enfermedad;Ácaros en plantas madre del área de propagación principal;Medio;
+24/03/2026;Vivero 1 (Sr.Francisco);Otra;Retraso en entrega de insumos por parte del proveedor local;Bajo;
+28/03/2026;Vivero 2 (Sra.Zoila);Actividad no realizada;Deshoje de plantas enfermas postergado dos días seguidos;Bajo;
+30/03/2026;Vivero 1 (Sr.Francisco);Plaga o enfermedad;Oídio en zona de propagación del vivero sector este;Medio;aplicación de azufre
+03/04/2026;Vivero 2 (Sra.Zoila);Daño clima/infraestructura;Tubería de riego con fuga leve en sector norte del vivero;Bajo;reparación inmediata
+05/04/2026;Vivero 1 (Sr.Francisco);Actividad no realizada;Control de malezas omitido por lluvia intensa durante el día;Bajo;
+09/04/2026;Vivero 2 (Sra.Zoila);Plaga o enfermedad;Trips detectados en nuevos brotes de rosa roja sector A;Alto;tratamiento sistémico
+11/04/2026;Vivero 1 (Sr.Francisco);Daño clima/infraestructura;Viento fuerte volcó bandejas de plántulas en el pasillo;Medio;
+15/04/2026;Vivero 2 (Sra.Zoila);Actividad no realizada;Aplicación de calcio foliar omitida por falta de insumos;Bajo;
+17/04/2026;Vivero 1 (Sr.Francisco);Plaga o enfermedad;Presencia de caracoles en suelo tras lluvia nocturna intensa;Bajo;
+21/04/2026;Vivero 2 (Sra.Zoila);Otra;Fallo momentáneo del sistema de iluminación nocturna del vivero;Bajo;
+23/04/2026;Vivero 1 (Sr.Francisco);Actividad no realizada;Poda de mantenimiento postergada por personal reducido hoy;Bajo;
+27/04/2026;Vivero 2 (Sra.Zoila);Plaga o enfermedad;Pudrición basal en plantas del sector sur del invernadero;Alto;eliminación de plantas
+29/04/2026;Vivero 1 (Sr.Francisco);Daño clima/infraestructura;Rotura de malla sombra por viento en sector este del vivero;Bajo;
+03/05/2026;Vivero 2 (Sra.Zoila);Actividad no realizada;Riego de precisión sin ejecutar durante un día completo;Bajo;
+05/05/2026;Vivero 1 (Sr.Francisco);Plaga o enfermedad;Botrytis leve en flores abiertas tras días de alta humedad;Medio;mejora de circulación
+09/05/2026;Vivero 2 (Sra.Zoila);Otra;Registro de cosecha ingresado con fecha errónea en el sistema;Bajo;corregido al día siguiente
+11/05/2026;Vivero 1 (Sr.Francisco);Plaga o enfermedad;Mosca blanca detectada en hojas basales del sector central;Medio;
+15/05/2026;Vivero 2 (Sra.Zoila);Daño clima/infraestructura;Malla antigranizo con desgarres menores en el borde norte;Bajo;
+17/05/2026;Vivero 1 (Sr.Francisco);Actividad no realizada;Aplicación de abono foliar omitida por error de planificación;Bajo;
+21/05/2026;Vivero 2 (Sra.Zoila);Plaga o enfermedad;Fusarium en raíces de plantas jóvenes del área de propagación;Alto;replante urgente
+23/05/2026;Vivero 1 (Sr.Francisco);Otra;Error de etiquetado en lote de rosas rosadas para exportación;Bajo;corregido mismo día
+27/05/2026;Vivero 2 (Sra.Zoila);Actividad no realizada;Revisión del sistema de goteo omitida por falta de tiempo hoy;Bajo;
+29/05/2026;Vivero 1 (Sr.Francisco);Plaga o enfermedad;Cochinilla harinosa en plantas de reproducción del vivero dos;Medio;
+02/06/2026;Vivero 2 (Sra.Zoila);Daño clima/infraestructura;Poste de soporte de malla dañado por lluvia y viento norte;Medio;reparación programada
+04/06/2026;Vivero 1 (Sr.Francisco);Actividad no realizada;Limpieza de canales de riego pendiente por personal reducido;Bajo;
+08/06/2026;Vivero 2 (Sra.Zoila);Plaga o enfermedad;Alternaria en hojas de rosas amarillas del sector exterior;Medio;fungicida preventivo
